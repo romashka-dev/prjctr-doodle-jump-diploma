@@ -1,1 +1,3 @@
-# prjctr-doodle-jump-diploma
+# Task - create doodle jump clone | prctr 
+
+Author: [Holovizin Roman]
